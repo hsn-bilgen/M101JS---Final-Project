@@ -55,4 +55,3 @@ jspm_packages
 .idea/mongomart.iml
 .idea/workspace.xml
 node_modules/
-/static/bower_components/
